@@ -1,0 +1,20 @@
+1/ khởi tạo git 
+    - lệnh : git init
+2/ kiểm tra phiên bản git
+    - lệnh : git --version
+3/ đưa code của mình lên sever github/gitlab
+    - lệnh : -) git add.
+             -) git commit -m "your comment"
+             -) git push origin master/ git push --set-upstream origin master /git push
+4/ lệnh kiểm tra trạng thái của git
+    - lệnh : git status
+
+5/ lệnh  giúp git biết được sẽ đưa code lên chỗ nào 
+    -lệnh : git remote add origin {url_github}
+    ví dụ : git remote add origin https://github.com/longphung1304/git-bc28.git
+
+6/ kiểm tra xem add remote thành công chưa:
+    lệnh : git remote
+
+
+note : *******git
